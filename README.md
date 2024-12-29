@@ -30,8 +30,8 @@ dotnet restore
  ```
 
 3. **Compilar o Projeto:**
-```bash
 Para compilar o projeto, execute o seguinte comando:
+```bash
 dotnet build
 ```
 
